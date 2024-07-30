@@ -33,7 +33,7 @@ This project is a web scraper built with Java, Spring Boot, and Maven. The scrap
 - **Scrape ASOS men's products**: `POST /api/scrapers/scrape/asos/mens`
 - **Scrape ASOS women's products**: `POST /api/scrapers/scrape/asos/womens`
 - **Scrape Debenhams products**: `POST /api/scrapers/scrape/debenhams`
-- **Scrape Debenhams category**: `POST /api/scrapers/scrape/siteB/{category}`
+- **Scrape Debenhams category**: `POST /api/scrapers/scrape/debenhams/{category}`
 
 ### Data Retrieval Endpoints
 - **Get all products**: `GET /api/products`
